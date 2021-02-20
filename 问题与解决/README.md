@@ -8,7 +8,7 @@
 
 原因是没有设置用户信息，Git在每次提交时除了记录批注（`-m "xxx"`）外还会记录提交者，便于版本回退。出现该情况**只需要根据提示依次敲入`git config --global user.email xxx`和`git config --global user.name xxx`即可，用户名和邮箱为注册github中户时使用的邮箱**
 
-
+---
 
 ### Git有什么用？示范教程中的操作好麻烦啊
 
@@ -32,7 +32,7 @@
 
   `git push`：将本地仓库同步到远程仓库。至此，所有的修改历史和文件都保存在了云端，不用担心没法儿时空穿梭了。
 
-  **注：**注意到示范教程中同步远程仓库的指令是`git push -u origin main`,实际上`-u origin main`是可以省略的。第一次执行完`git push -u origin main`后，我们执行过一次`git push --set-upstream origin main`，之后的所有同步就可以省略`-u`参数了，直接敲`git push`回车，搞定！
+  **注：** 注意到示范教程中同步远程仓库的指令是`git push -u origin main`,实际上`-u origin main`是可以省略的。第一次执行完`git push -u origin main`后，我们执行过一次`git push --set-upstream origin main`，之后的所有同步就可以省略`-u`参数了，直接敲`git push`回车，搞定！
 
 + **何时进行一次git提交**
 
