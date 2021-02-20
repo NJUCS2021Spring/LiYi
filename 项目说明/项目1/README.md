@@ -66,20 +66,20 @@
 
 1. 主界面
 
-   ![img](https://docimg2.docs.qq.com/image/ZnPmd8nVXm3QYmDo-tNd3A?w=831&h=284)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (2).png)
 
 2. 单词分组选中/查询结果
 
-   ![img](https://docimg6.docs.qq.com/image/yuKOsjWlAtE1BKq6BWoJ_w?w=909&h=480)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (3).png)
 
 3. 单词卡片编辑
 
-   ![img](https://docimg6.docs.qq.com/image/60Oi2GeMD1fjU9Iov4H3cQ?w=900&h=382)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (4).png)
 
     
 
-   ![img](https://docimg8.docs.qq.com/image/Tk9KdVzVVmN3k_K1W5SDMg?w=867&h=562)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (5).png)
 
    
 
-   ![img](https://docimg4.docs.qq.com/image/XF_qbCge76I9vwdDneYUqg?w=921&h=500)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (6).png)

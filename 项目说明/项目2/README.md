@@ -63,7 +63,7 @@
 
    如下图：
 
-   ![img](https://docimg2.docs.qq.com/image/11JNCB1DJGSqJDA4G4TenA?w=843&h=151)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1.png)
 
 2. 下列示例中未展示的功能/界面均可自行设计命令行交互逻辑，保证涵盖前述项目功能即可，无特定限制，鼓励创新更为便捷易用的逻辑
 
@@ -71,4 +71,4 @@
 
 项目运行示例
 
-![img](https://docimg5.docs.qq.com/image/WCVdPfe06euE_1r6JTQ2lg?w=1652&h=1050)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (1).png)
