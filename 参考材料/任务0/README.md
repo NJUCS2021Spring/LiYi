@@ -72,7 +72,7 @@ git是大家协同工作必备的工具，之后大二的ics、操作系统等�
 
 ​	在资源管理器界面空白处点击鼠标右键，选中下图所示选项
 
-![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image.png)
+![image](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image.png)
 
 ​	出现下图所示窗口
 

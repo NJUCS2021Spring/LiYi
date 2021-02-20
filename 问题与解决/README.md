@@ -4,7 +4,7 @@
 
 大部分同学都是第一次使用git，所以第一次使用命令`git commit`时会遇到如下问题：
 
-![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (2).png)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image13.png)
 
 原因是没有设置用户信息，Git在每次提交时除了记录批注（`-m "xxx"`）外还会记录提交者，便于版本回退。出现该情况**只需要根据提示依次敲入`git config --global user.email xxx`和`git config --global user.name xxx`即可，用户名和邮箱为注册github中户时使用的邮箱**
 
