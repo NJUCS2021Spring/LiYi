@@ -66,20 +66,20 @@
 
 1. 主界面
 
-   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (2).png)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image333.png)
 
 2. 单词分组选中/查询结果
 
-   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (3).png)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image3331.png)
 
 3. 单词卡片编辑
 
-   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (4).png)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image3332.png)
 
     
 
-   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (5).png)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image3333.png)
 
    
 
-   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (6).png)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image3334.png)

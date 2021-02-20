@@ -63,7 +63,7 @@
 
    如下图：
 
-   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1.png)
+   ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image3335.png)
 
 2. 下列示例中未展示的功能/界面均可自行设计命令行交互逻辑，保证涵盖前述项目功能即可，无特定限制，鼓励创新更为便捷易用的逻辑
 
@@ -71,4 +71,4 @@
 
 项目运行示例
 
-![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1 (1).png)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image3336.png)
