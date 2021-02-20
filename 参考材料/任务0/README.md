@@ -8,21 +8,21 @@
 
 首先大家在本地创建一个文件夹用于存放项目代码，例如这里我在D盘新建了文件夹`mycode`
 
-![image](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image.jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image.png)
 
 打开cmd，进入mycode目录(在笔记本左下角快捷搜索cmd打开即可)
 
 （第一行命令切换到D盘，第二行进入`mycode`，在C盘创建则无需切换到D）
 
-![image (1)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (1).jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image1.png)
 
 输入命令`git init`，在本地新建空仓库
 
-![image (2)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (2).jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image2.png)
 
 现在我们的`mycode`文件夹就相当于本地的空仓库了，我们需要设置远程仓库：输入命令`git remote add origin https://github.com/NJUCS2021Spring/xxx.git`(xxx为你的名字拼写，请大家先到https://github.com/NJUCS2021Spring 上确定自己的仓库名)
 
-![image (3)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (3).jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image5.png)
 
 现在我们设置好了远程仓库。之后我们会在本地仓库添加自己的文件、代码，并上传到远程仓库实现共享
 
@@ -30,11 +30,11 @@
 
 在相应文件夹中新建一个文件，例如这里新建了文件`README.md`(鼠标右键“新建”)，在里面写点内容（如何编辑MarkDown格式的文件可见附录）
 
-![image (4)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (4).jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image6.png)
 
 我们可以通过命令`git status`查看上一次提交远程仓库后我们的本地仓库发生了什么变化：
 
-![image (5)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (5).jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image7.png)
 
 可以看到git提示我们之前还没有提交过，且本地仓库暂存区多出了还没有提交到远程仓库的文件`README.md`
 
@@ -44,7 +44,7 @@
 
 输入命令`git add .`以添加所有新增的或者修改过的文件，再输入`git commit -m "first commit"`将添加的文件上传至本地仓库，并将本次提交的修改都加上注释“first commit”。`-m`选项后接的是代码修改注释，便于明确此次提交对代码做了哪些修改
 
-![image (6)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (6).jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/iamge8.png)
 
 可以看到再次`git status`会提示所有变化都已经提交到本地仓库了
 
@@ -52,7 +52,7 @@
 
 输入命令`git push -u origin main`，并根据提示输入自己的github账号和密码(密码输入时是不显示的)
 
-![image (7)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (7).jfif)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image9.png)
 
 这里`git branch -M main`是为了修改本地分支的名字，`-M`选限后接新的分支名字；`git push -u origin main`中`-u`选项后接的`origin main`将当前已经提交的修改推送远程仓库的 main 分支下
 
@@ -72,17 +72,15 @@ git是大家协同工作必备的工具，之后大二的ics、操作系统等�
 
 ​	在资源管理器界面空白处点击鼠标右键，选中下图所示选项
 
-![image](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image.png)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image11.png)
 
 ​	出现下图所示窗口
 
-![image (1)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (1).png)
+![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image12.png)
 
 ​	在该窗口中同样可以按照前述流程敲入命令
 
-![image-20210220134729351](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image-20210220134729351.png)
-
-
+![image-20210220215418364](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image-20210220215418364.png)
 
 ### 任务
 
@@ -96,9 +94,7 @@ git是大家协同工作必备的工具，之后大二的ics、操作系统等�
 
   示例：
 
-  ![image (8)](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image (8).jfif)
-
-### 附录
+  ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image10.png)附录
 
 ##### 如何编辑MarkDown文件？
 
