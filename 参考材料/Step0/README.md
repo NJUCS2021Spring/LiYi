@@ -94,7 +94,9 @@ git是大家协同工作必备的工具，之后大二的ics、操作系统等�
 
   示例：
 
-  ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image10.png)附录
+  ![](https://gitee.com/Coder-Colder/typora-pic-bed/raw/master/img/image10.png)
+
+## 附录
 
 ##### 如何编辑MarkDown文件？
 
